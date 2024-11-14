@@ -1,0 +1,235 @@
+[
+  {
+    "hotelId": "hotel-1",
+    "slug": "rainwater-falls",
+    "images": [
+      "/uploads/1731474262128-pic_1.jpg",
+      "/uploads/1731474465424-pic_1.jpg",
+      "http://localhost:3000/uploads/1731475144080-pic_1.jpg"
+    ],
+    "title": "Rainwater Falls",
+    "description": "Beautiful hotel near a waterfall",
+    "guestCount": 4,
+    "bedroomCount": 2,
+    "bathroomCount": 1,
+    "amenities": [
+      "Wifi",
+      "Pool"
+    ],
+    "hostInfo": "John Doe",
+    "address": "123 Waterfall Rd",
+    "latitude": 45.123,
+    "longitude": -93.123,
+    "rooms": [
+      {
+        "roomSlug": "room1",
+        "roomImage": "image.jpg",
+        "roomTitle": "Deluxe Room",
+        "bedroomCount": 1
+      }
+    ]
+  },
+  {
+    "hotelId": "hotel-2",
+    "slug": "hotel-radison-blu",
+    "images": [
+      "http://localhost:3000/uploads/1731474834805-pic_2.jpg"
+    ],
+    "title": "Hotel Radison Blu",
+    "description": "A 5-star Hotel",
+    "guestCount": 4,
+    "bedroomCount": 2,
+    "bathroomCount": 1,
+    "amenities": [
+      "Wifi",
+      "Pool"
+    ],
+    "hostInfo": "John",
+    "address": "Dhaka",
+    "latitude": 45.123,
+    "longitude": -93.123,
+    "rooms": [
+      {
+        "roomSlug": "room1",
+        "roomImage": "image.jpg",
+        "roomTitle": "Deluxe Room",
+        "bedroomCount": 1
+      }
+    ]
+  },
+  {
+    "hotelId": "hotel-3",
+    "slug": "ocean-breeze-resort",
+    "images": [
+      "/uploads/1731474959286-pic_3.jpg",
+      "http://localhost:3000/uploads/1731475171815-pic_3.jpg"
+    ],
+    "title": "Ocean Breeze Resort",
+    "description": "A luxurious resort with a view of the ocean",
+    "guestCount": 6,
+    "bedroomCount": 3,
+    "bathroomCount": 2,
+    "amenities": [
+      "Wifi",
+      "Spa",
+      "Private Beach",
+      "Gym"
+    ],
+    "hostInfo": "Jane Smith",
+    "address": "456 Seaside Blvd",
+    "latitude": 36.7783,
+    "longitude": -119.4179,
+    "rooms": [
+      {
+        "roomSlug": "oceanview-suite",
+        "roomImage": "suite.jpg",
+        "roomTitle": "Oceanview Suite",
+        "bedroomCount": 2
+      },
+      {
+        "roomSlug": "penthouse",
+        "roomImage": "penthouse.jpg",
+        "roomTitle": "Penthouse",
+        "bedroomCount": 1
+      }
+    ]
+  },
+  {
+    "hotelId": "hotel-4",
+    "slug": "mountain-retreat",
+    "images": [
+      "http://localhost:3000/uploads/1731475040738-pic_4.jpg"
+    ],
+    "title": "Mountain Retreat",
+    "description": "Cozy cabin located in the mountains, perfect for nature lovers.",
+    "guestCount": 6,
+    "bedroomCount": 3,
+    "bathroomCount": 2,
+    "amenities": [
+      "Wifi",
+      "Fireplace",
+      "Hiking Trails",
+      "Hot Tub"
+    ],
+    "hostInfo": "David Green",
+    "address": "789 Mountain Path",
+    "latitude": 39.123,
+    "longitude": -105.234,
+    "rooms": [
+      {
+        "roomSlug": "cabin-master",
+        "roomImage": "cabin-master.jpg",
+        "roomTitle": "Master Cabin Room",
+        "bedroomCount": 1
+      },
+      {
+        "roomSlug": "loft-bedroom",
+        "roomImage": "loft.jpg",
+        "roomTitle": "Loft Bedroom",
+        "bedroomCount": 2
+      }
+    ]
+  },
+  {
+    "hotelId": "hotel-5",
+    "slug": "cityscape-apartments",
+    "images": [
+      "http://localhost:3000/uploads/1731475075150-pic_5.jpg"
+    ],
+    "title": "Cityscape Apartments",
+    "description": "Modern apartment in the heart of downtown, close to all major attractions.",
+    "guestCount": 4,
+    "bedroomCount": 2,
+    "bathroomCount": 1,
+    "amenities": [
+      "Wifi",
+      "Gym",
+      "Parking",
+      "Air Conditioning"
+    ],
+    "hostInfo": "James Parker",
+    "address": "100 Main St",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "rooms": [
+      {
+        "roomSlug": "penthouse-suite",
+        "roomImage": "penthouse.jpg",
+        "roomTitle": "Penthouse Suite",
+        "bedroomCount": 1
+      },
+      {
+        "roomSlug": "standard-room",
+        "roomImage": "standard.jpg",
+        "roomTitle": "Standard Room",
+        "bedroomCount": 1
+      }
+    ]
+  },
+  {
+    "hotelId": "hotel-6",
+    "slug": "countryside-cottage",
+    "images": [
+      "http://localhost:3000/uploads/1731475116286-pic_6.jpg"
+    ],
+    "title": "Countryside Cottage",
+    "description": "Charming cottage located in the quiet countryside, ideal for a peaceful getaway.",
+    "guestCount": 5,
+    "bedroomCount": 2,
+    "bathroomCount": 1,
+    "amenities": [
+      "Wifi",
+      "Garden",
+      "BBQ Area",
+      "Fireplace"
+    ],
+    "hostInfo": "Emily Stone",
+    "address": "321 Country Lane",
+    "latitude": 50.987,
+    "longitude": -1.234,
+    "rooms": [
+      {
+        "roomSlug": "garden-view-room",
+        "roomImage": "garden.jpg",
+        "roomTitle": "Garden View Room",
+        "bedroomCount": 1
+      },
+      {
+        "roomSlug": "attic-room",
+        "roomImage": "attic.jpg",
+        "roomTitle": "Attic Room",
+        "bedroomCount": 1
+      }
+    ]
+  },
+  {
+    "hotelId": "hotel-7",
+    "slug": "mountain-view-lodge",
+    "images": [
+      "http://localhost:3000/uploads/1731480170479-pic_3.jpg"
+    ],
+    "title": "Mountain View Lodge",
+    "description": "Cozy lodge with stunning mountain views",
+    "guestCount": 4,
+    "bedroomCount": 2,
+    "bathroomCount": 1,
+    "amenities": [
+      "Wifi",
+      "Fireplace",
+      "Hot Tub",
+      "Gym"
+    ],
+    "hostInfo": "Jane Smith",
+    "address": "456 Summit Ave",
+    "latitude": 45.123,
+    "longitude": -93.123,
+    "rooms": [
+      {
+        "roomSlug": "room1",
+        "roomImage": "image.jpg",
+        "roomTitle": "Luxury Suite",
+        "bedroomCount": 1
+      }
+    ]
+  }
+]
