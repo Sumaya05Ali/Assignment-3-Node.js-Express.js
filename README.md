@@ -16,7 +16,7 @@ git clone https://github.com/Sumaya05Ali/Assignment-3-Node.js-Express.js.git
  ```
 Navigate to the project folder:
 ```bash
-cd hotel-management-api
+cd Assignment-3-Node.js-Express.js
 ```
 
 Install dependencies:
